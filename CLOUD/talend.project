@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_4qgXkXBoEe255fbunzg4cg" label="cloud" language="java" technicalLabel="CLOUD" author="_4qgXknBoEe255fbunzg4cg" productVersion="Talend Cloud Data Management Platform-8.0.1.20221116_1301-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/PriyankaSalmani/Cloud.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_4vu10HBoEe255fbunzg4cg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_4qgXknBoEe255fbunzg4cg" login="priyanka.salmani@trial42140.us.talend.com" firstName="Priyanka" lastName="Salmani" type="DQ"/>
+</xmi:XMI>

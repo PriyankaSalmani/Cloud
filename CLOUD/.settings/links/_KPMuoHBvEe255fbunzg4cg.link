@@ -1,0 +1,48 @@
+{
+  "itemId" : "_KPMuoHBvEe255fbunzg4cg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8rcZQHBvEe255fbunzg4cg",
+    "parameterList" : [ {
+      "id" : "_8rtfAHBvEe255fbunzg4cg",
+      "name" : "DBConnect_Database"
+    }, {
+      "id" : "_8rtfAXBvEe255fbunzg4cg",
+      "name" : "DBConnect_Password"
+    }, {
+      "id" : "_8rtfAnBvEe255fbunzg4cg",
+      "name" : "DBConnect_Server"
+    }, {
+      "id" : "_8rs38XBvEe255fbunzg4cg",
+      "name" : "DBConnect_Port"
+    }, {
+      "id" : "_8rs38nBvEe255fbunzg4cg",
+      "name" : "DBConnect_AdditionalParams"
+    }, {
+      "id" : "_8rs383BvEe255fbunzg4cg",
+      "name" : "DBConnect_Login"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_8rcZQHBvEe255fbunzg4cg",
+    "parameterList" : [ {
+      "id" : "_8rtfAHBvEe255fbunzg4cg",
+      "name" : "DBConnect_Database"
+    }, {
+      "id" : "_8rtfAXBvEe255fbunzg4cg",
+      "name" : "DBConnect_Password"
+    }, {
+      "id" : "_8rtfAnBvEe255fbunzg4cg",
+      "name" : "DBConnect_Server"
+    }, {
+      "id" : "_8rs38XBvEe255fbunzg4cg",
+      "name" : "DBConnect_Port"
+    }, {
+      "id" : "_8rs38nBvEe255fbunzg4cg",
+      "name" : "DBConnect_AdditionalParams"
+    }, {
+      "id" : "_8rs383BvEe255fbunzg4cg",
+      "name" : "DBConnect_Login"
+    } ]
+  } ]
+}
